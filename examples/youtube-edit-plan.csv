@@ -1,0 +1,2 @@
+shot_id,start_seconds,end_seconds,voiceover_excerpt,visual_type,composition,visual_action,sfx,output_file,timing_status
+01,0,10,"مثال: خلّي أدواتك تشتغل مع بعض",broll,ConnectedSystem,"مصادر تتجمع في مساحة عمل",light-sweep-and-taps,01-connected-system.mp4,editorial-example-not-speech-aligned

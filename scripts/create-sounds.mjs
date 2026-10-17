@@ -25,3 +25,5 @@ wav('reveal', .48, (t, n) => n * Math.sin(Math.PI * t / .48) ** 2 * 1.8);
 wav('tap', .18, (t) => Math.sin(2 * Math.PI * (720 * t - 750 * t * t)) * Math.exp(-32 * t) * Math.min(1, t / .006) * .32);
 wav('resolve', .65, (t) => (Math.sin(2 * Math.PI * 660 * t) + .35 * Math.sin(2 * Math.PI * 990 * t)) * Math.exp(-7 * t) * Math.min(1, t / .02) * .17);
 console.log('Created reveal.wav, tap.wav, resolve.wav');
+wav('sweep', .8, (t,n) => (n*.9 + Math.sin(2*Math.PI*(110*t+100*t*t))*.12) * Math.sin(Math.PI*t/.8)**2);
+wav('scan', 1.4, (t,n) => (Math.sin(2*Math.PI*(220*t+95*t*t))*.045+n*.16) * Math.sin(Math.PI*t/1.4)**2);
