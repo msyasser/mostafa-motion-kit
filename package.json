@@ -1,0 +1,26 @@
+{
+  "name": "mostafa-motion-kit",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Gold and brown Arabic B-roll templates for Mostafa Yasser",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "sounds": "node scripts/create-sounds.mjs",
+    "render": "remotion render src/index.ts",
+    "still": "remotion still src/index.ts"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.536",
+    "@remotion/fonts": "4.0.536",
+    "remotion": "4.0.536",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "zod": "4.5.4"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.0",
+    "@types/react-dom": "19.2.0",
+    "typescript": "5.9.3"
+  }
+}
