@@ -5,9 +5,9 @@ Six local user-provided videos were inspected through metadata and eight tempora
 | Reference prefix | Duration / format | Observed visual language | Adaptation |
 | --- | --- | --- | --- |
 | 9ec129 | 25.82s, landscape | Floating UI, timeline, converging paths, connected apps and bars | Gold network transforming into one workspace |
-| ae7c0f | 32.86s, portrait | Assistant UI, chat exchange, orb and agent connections | Warm glass assistant interaction with Dhayy |
+| ae7c0f | 32.86s, portrait | Assistant UI, chat exchange, orb and agent connections | Warm glass assistant interaction; Dhayy only if the scene tells a story |
 | f9030f | 24.77s, portrait | Dimensional cards, glossy highlights, mascot and charts | Material depth; no copied financial claims or mascot |
-| 015732 | 28.33s, portrait | Character-led metaphors, changing large type, depth repetition | Dhayy as the brand lead; semantic transformations |
+| 015732 | 28.33s, portrait | Character-led metaphors, changing large type, depth repetition | Dhayy for storytelling only, with character actions when possible; semantic transformations |
 | 98c466 | 5.57s, landscape | Fast message reveal, tilted panels, connected sources | Brief interface motion and purposeful light sweep |
 | 49ae7d | 30.42s, landscape | Flow diagrams, camera pushes, glass panels, noise filtering | FocusFilter and ConnectedSystem |
 
@@ -17,6 +17,6 @@ Implemented studies:
 
 - ConnectedSystem: sources enter → lines converge → sources merge into a workspace → actionable steps appear.
 - FocusFilter: competing inputs → priority scan → one action emerges → camera focuses on that action.
-- DhayyAssistant: Dhayy and interface enter → request → processing → three steps.
+- DhayyAssistant: legacy 2.5D study (character and interface enter → request → processing → three steps). It predates the storytelling-only rule and is not the target for new character animation.
 
 Timings are editorial, not synchronized to a supplied voiceover. Review the exact pace with Mostafa before treating it as an approved house style.

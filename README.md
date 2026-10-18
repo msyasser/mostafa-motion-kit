@@ -1,6 +1,6 @@
 # Mostafa Motion Kit
 
-**v0.2 — مرجع مونتاج يوتيوب وB-rolls بهوية مصطفى، مع ضيّ كشخصية أساسية.**
+**v0.2 — مرجع مونتاج يوتيوب وB-rolls بهوية مصطفى، مع ضيّ لمشاهد الـStorytelling فقط.**
 
 ابدأ من [دليل الـAI](START_HERE.md)، أو [دليل محرر يوتيوب](docs/YOUTUBE_PLAYBOOK.md). الاتجاه الجديد: عمق زجاجي، حركة كاميرا، خطوط اتصال وتحولات توضح الفكرة. [تحليل المراجع](docs/REFERENCE_STYLE.md) · [دليل ضيّ](docs/DHAYY.md).
 
@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | ConnectedSystem | أدوات منفصلة تتجمع في نظام واحد | [MP4](previews/v2/connected-system.mp4) |
 | FocusFilter | من التشتت لخطوة واحدة واضحة | [MP4](previews/v2/focus-filter.mp4) |
-| DhayyAssistant | ضيّ ومساعد يحوّل الفكرة لخطة | [MP4](previews/v2/dhayy-assistant.mp4) |
+| DhayyAssistant | دراسة 2.5D قديمة، وليست معيار مشاهد ضيّ القصصية الجديدة | [MP4](previews/v2/dhayy-assistant.mp4) |
 | CinematicShowcase | العينات الثلاثة، 30 ثانية بالصوت | [MP4](previews/v2/cinematic-showcase.mp4) |
 
 عينات فعلية 1080p/30fps مع مؤثرات أصلية. ضيّ في العينة صورة داخل تحريك 2.5D، وليس شخصية تتكلم أو نموذجًا متحرك الأطراف. النصوص والتوقيت التفصيلي للمشاهد الجديدة في src/cinematic/؛ التحكم في المؤثرات من Props.

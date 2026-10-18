@@ -20,7 +20,7 @@ For existing videos or footage, follow docs/EDITING_WORKFLOW.md.
 
 Write a compact shot plan: intended meaning → visual action → what appears when → sound cue → final reading hold. Use examples/brief-template.md when useful. Keep on-screen text concise; do not copy an entire spoken paragraph onto a card.
 
-Prefer the cinematic studies: ConnectedSystem for convergence, FocusFilter for priorities, DhayyAssistant for a character-led interaction. Use Dhayy when a person is needed. HeroPanel, SystemFlow and FloatingCards are simpler legacy examples. Build other compositions when needed. Never invent statistics, product features, quotes or UI states and present them as factual.
+Prefer ConnectedSystem for convergence and FocusFilter for priorities. Use Dhayy ONLY for storytelling, with narrative actions, reactions and scene interaction when tools permit; follow docs/DHAYY.md. DhayyAssistant is a legacy still-based technical study, not a default explanatory template or the target for animated storytelling. HeroPanel, SystemFlow and FloatingCards are simpler legacy examples. Build other compositions when needed. Never invent statistics, product features, quotes or UI states and present them as factual.
 
 ## 4. Build deterministically
 
